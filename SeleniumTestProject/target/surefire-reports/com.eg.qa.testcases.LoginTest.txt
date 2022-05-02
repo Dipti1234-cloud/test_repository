@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.eg.qa.testcases.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 8, Time elapsed: 1.824 s <<< FAILURE! - in com.eg.qa.testcases.LoginTest
+setup(com.eg.qa.testcases.LoginTest)  Time elapsed: 1.308 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "String.equals(Object)" because "browsername" is null
+	at com.eg.qa.testcases.LoginTest.setup(LoginTest.java:21)
+

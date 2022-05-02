@@ -1,0 +1,5 @@
+com\eg\qa\pages\SignupPage.class
+com\eg\qa\base\TestBase.class
+com\eg\qa\pages\HomePage.class
+com\eg\qa\pages\LoginPage.class
+com\eg\qa\util\TestUtils.class
